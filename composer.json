@@ -1,0 +1,26 @@
+{
+  "name": "hruckerdotcom/consoleprint",
+  "description": "Formatted output to the console with the ability to set the color.",
+  "homepage": "https://github.com/hruckertodcom/ConsolePrint",
+  "type": "library",
+  "authors": [
+    {
+      "name": "hrucker",
+      "email": "hrucker.com@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+    "keywords": [
+    "php",
+    "console",
+    "color"
+  ],
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "hruckerdotcom\\consoleprint\\": ""
+    }
+  },
+}
